@@ -1,5 +1,5 @@
 public class Datum {
-
+  //modelo de datos json
   private Integer id;
   private String email;
   private String firstName;
