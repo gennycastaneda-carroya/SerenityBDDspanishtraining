@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73133b51-e5dd-47b5-8975-f7420d268fde" name="Default Changelist" comment="se suben ultimos camvios video 11" />
+    <list default="true" id="73133b51-e5dd-47b5-8975-f7420d268fde" name="Default Changelist" comment="se suben ultimos camvios video 11">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/facts/NexflixPlans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/interactions/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/models.users/Datum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/models.users/Datum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/tasks/RegisterUserTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/tasks/RegisterUserTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SerenityInitialTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SerenityInitialTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
