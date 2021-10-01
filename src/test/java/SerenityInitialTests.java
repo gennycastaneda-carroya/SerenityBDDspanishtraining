@@ -95,4 +95,14 @@ public class SerenityInitialTests {
     );
 
   }
+
+  @Test
+  public void FactTest(){
+
+    Actor Camilo = Actor.named("Camilo the trainer")
+        .whoCan(CallAnApi.at(restAPIUrl));
+
+    Camilo.has(NexflixPlans.toViewSeries());
+
+  }
 }
